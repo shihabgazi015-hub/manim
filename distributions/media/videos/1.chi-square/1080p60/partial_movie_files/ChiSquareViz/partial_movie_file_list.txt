@@ -1,0 +1,7 @@
+# This file is used internally by FFMPEG.
+file 'file:E:/manim/distributions/media/videos/1.chi-square/1080p60/partial_movie_files/ChiSquareViz/245624339_2770434771_223132457.mp4'
+file 'file:E:/manim/distributions/media/videos/1.chi-square/1080p60/partial_movie_files/ChiSquareViz/3462310313_2806759934_2063398758.mp4'
+file 'file:E:/manim/distributions/media/videos/1.chi-square/1080p60/partial_movie_files/ChiSquareViz/3462310313_1110075577_3369878158.mp4'
+file 'file:E:/manim/distributions/media/videos/1.chi-square/1080p60/partial_movie_files/ChiSquareViz/3462310313_2031352400_2185842561.mp4'
+file 'file:E:/manim/distributions/media/videos/1.chi-square/1080p60/partial_movie_files/ChiSquareViz/3462310313_1518932524_3207168606.mp4'
+file 'file:E:/manim/distributions/media/videos/1.chi-square/1080p60/partial_movie_files/ChiSquareViz/3462310313_4277570474_1321053699.mp4'

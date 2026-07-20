@@ -1,0 +1,13 @@
+# This file is used internally by FFMPEG.
+file 'file:E:/manim/media/videos/1/480p15/partial_movie_files/FormulasScene/793938918_1590608748_223132457.mp4'
+file 'file:E:/manim/media/videos/1/480p15/partial_movie_files/FormulasScene/2791924351_1772021501_3704643978.mp4'
+file 'file:E:/manim/media/videos/1/480p15/partial_movie_files/FormulasScene/2791924351_3457411095_3936324036.mp4'
+file 'file:E:/manim/media/videos/1/480p15/partial_movie_files/FormulasScene/2791924351_1772021501_1259835372.mp4'
+file 'file:E:/manim/media/videos/1/480p15/partial_movie_files/FormulasScene/2791924351_4186539774_2406306033.mp4'
+file 'file:E:/manim/media/videos/1/480p15/partial_movie_files/FormulasScene/2791924351_1772021501_681764421.mp4'
+file 'file:E:/manim/media/videos/1/480p15/partial_movie_files/FormulasScene/2791924351_2886811934_3148481732.mp4'
+file 'file:E:/manim/media/videos/1/480p15/partial_movie_files/FormulasScene/2791924351_1772021501_2501891725.mp4'
+file 'file:E:/manim/media/videos/1/480p15/partial_movie_files/FormulasScene/2791924351_2269499809_572810412.mp4'
+file 'file:E:/manim/media/videos/1/480p15/partial_movie_files/FormulasScene/2791924351_2840115676_3196764103.mp4'
+file 'file:E:/manim/media/videos/1/480p15/partial_movie_files/FormulasScene/2791924351_798185733_1814444762.mp4'
+file 'file:E:/manim/media/videos/1/480p15/partial_movie_files/FormulasScene/2791924351_3879069619_2524115173.mp4'

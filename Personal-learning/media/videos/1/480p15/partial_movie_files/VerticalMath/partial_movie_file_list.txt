@@ -1,0 +1,5 @@
+# This file is used internally by FFMPEG.
+file 'file:E:/manim/media/videos/1/480p15/partial_movie_files/VerticalMath/793938918_4160534005_223132457.mp4'
+file 'file:E:/manim/media/videos/1/480p15/partial_movie_files/VerticalMath/2791924351_3879069619_104431639.mp4'
+file 'file:E:/manim/media/videos/1/480p15/partial_movie_files/VerticalMath/2791924351_1312112936_2593973867.mp4'
+file 'file:E:/manim/media/videos/1/480p15/partial_movie_files/VerticalMath/2791924351_548731573_210259938.mp4'

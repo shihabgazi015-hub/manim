@@ -1,0 +1,5 @@
+# This file is used internally by FFMPEG.
+file 'file:E:/manim/media/videos/1/720p30/partial_movie_files/StandardDeviationDefinition/122916032_2720594065_223132457.mp4'
+file 'file:E:/manim/media/videos/1/720p30/partial_movie_files/StandardDeviationDefinition/3288007914_1959249656_1937187851.mp4'
+file 'file:E:/manim/media/videos/1/720p30/partial_movie_files/StandardDeviationDefinition/3288007914_4027877637_2612894705.mp4'
+file 'file:E:/manim/media/videos/1/720p30/partial_movie_files/StandardDeviationDefinition/3288007914_548731573_210259938.mp4'

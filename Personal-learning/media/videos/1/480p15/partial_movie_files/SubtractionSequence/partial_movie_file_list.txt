@@ -1,0 +1,9 @@
+# This file is used internally by FFMPEG.
+file 'file:E:/manim/media/videos/1/480p15/partial_movie_files/SubtractionSequence/793938918_720808404_223132457.mp4'
+file 'file:E:/manim/media/videos/1/480p15/partial_movie_files/SubtractionSequence/2791924351_3218342468_2117101130.mp4'
+file 'file:E:/manim/media/videos/1/480p15/partial_movie_files/SubtractionSequence/2791924351_2967628373_1785013761.mp4'
+file 'file:E:/manim/media/videos/1/480p15/partial_movie_files/SubtractionSequence/2791924351_3218342468_2549856723.mp4'
+file 'file:E:/manim/media/videos/1/480p15/partial_movie_files/SubtractionSequence/2791924351_1828002866_1367997945.mp4'
+file 'file:E:/manim/media/videos/1/480p15/partial_movie_files/SubtractionSequence/2791924351_3218342468_313439618.mp4'
+file 'file:E:/manim/media/videos/1/480p15/partial_movie_files/SubtractionSequence/2791924351_1626618592_20499959.mp4'
+file 'file:E:/manim/media/videos/1/480p15/partial_movie_files/SubtractionSequence/2791924351_548731573_3968961708.mp4'

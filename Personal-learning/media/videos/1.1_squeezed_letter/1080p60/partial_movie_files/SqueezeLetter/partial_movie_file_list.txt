@@ -1,0 +1,5 @@
+# This file is used internally by FFMPEG.
+file 'file:E:/manim/media/videos/1.1_squeezed_letter/1080p60/partial_movie_files/SqueezeLetter/3544663784_3743422091_223132457.mp4'
+file 'file:E:/manim/media/videos/1.1_squeezed_letter/1080p60/partial_movie_files/SqueezeLetter/260329756_1432596116_2743390634.mp4'
+file 'file:E:/manim/media/videos/1.1_squeezed_letter/1080p60/partial_movie_files/SqueezeLetter/260329756_502953638_47058956.mp4'
+file 'file:E:/manim/media/videos/1.1_squeezed_letter/1080p60/partial_movie_files/SqueezeLetter/260329756_1432596116_2750040550.mp4'

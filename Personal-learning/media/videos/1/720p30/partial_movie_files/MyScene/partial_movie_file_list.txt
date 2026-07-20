@@ -1,0 +1,10 @@
+# This file is used internally by FFMPEG.
+file 'file:E:/manim/media/videos/1/720p30/partial_movie_files/MyScene/122916032_617942320_223132457.mp4'
+file 'file:E:/manim/media/videos/1/720p30/partial_movie_files/MyScene/3288007914_548731573_28672711.mp4'
+file 'file:E:/manim/media/videos/1/720p30/partial_movie_files/MyScene/3288007914_4197406723_2857358535.mp4'
+file 'file:E:/manim/media/videos/1/720p30/partial_movie_files/MyScene/3288007914_548731573_3620283537.mp4'
+file 'file:E:/manim/media/videos/1/720p30/partial_movie_files/MyScene/3288007914_1021310016_1624286089.mp4'
+file 'file:E:/manim/media/videos/1/720p30/partial_movie_files/MyScene/3288007914_548731573_1706645812.mp4'
+file 'file:E:/manim/media/videos/1/720p30/partial_movie_files/MyScene/3288007914_2329446311_1773374495.mp4'
+file 'file:E:/manim/media/videos/1/720p30/partial_movie_files/MyScene/3288007914_548731573_1057574873.mp4'
+file 'file:E:/manim/media/videos/1/720p30/partial_movie_files/MyScene/3288007914_1806531300_165735835.mp4'

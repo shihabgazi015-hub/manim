@@ -1,0 +1,6 @@
+# This file is used internally by FFMPEG.
+file 'file:E:/manim/Personal/media/videos/1.3_definition/1080p60/partial_movie_files/StandardDeviationDefinition/2724447040_3816521134_223132457.mp4'
+file 'file:E:/manim/Personal/media/videos/1.3_definition/1080p60/partial_movie_files/StandardDeviationDefinition/1529838924_1361714882_2944269701.mp4'
+file 'file:E:/manim/Personal/media/videos/1.3_definition/1080p60/partial_movie_files/StandardDeviationDefinition/1529838924_1959249656_3962116633.mp4'
+file 'file:E:/manim/Personal/media/videos/1.3_definition/1080p60/partial_movie_files/StandardDeviationDefinition/1529838924_306824275_2661582757.mp4'
+file 'file:E:/manim/Personal/media/videos/1.3_definition/1080p60/partial_movie_files/StandardDeviationDefinition/1529838924_548731573_1655106353.mp4'
