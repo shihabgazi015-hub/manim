@@ -29,7 +29,7 @@ These advanced scenes explore probability density functions (PDFs) and geometry 
 
 #### Chi-Square Visualization
 Visual explanation of data mapping and geometric properties of the Chi-Square distribution.
-<video src="distributions/media/videos/1.1.chi-square/1080p60/ChiSquareViz.mp4" controls width="100%"></video>
+<video src="distributions\media\videos\1.1.chi-square\1080p60\ChiSquareViz.mp4" controls width="100%"></video>
 
 #### Chi-Square Plotting
 Dynamic graphing of the Chi-Square curve with changing degrees of freedom.
