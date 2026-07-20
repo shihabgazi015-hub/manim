@@ -50,7 +50,7 @@ Core foundational scripts practicing `Mobject` creation, transformation, and pla
 
 #### Create Circle
 Basic rendering using the `Create` animation engine.
-<video src="manim_community/tutorials/media/videos/tutorials/480p15/CreateCircle.mp4" controls width="100%"></video>
+<video src="https://github.com/shihabgazi015-hub/manim/raw/refs/heads/main/manim_community/tutorials/media/videos/tutorials/480p15/CreateCircle.mp4" controls width="100%"></video>
 
 #### Square to Circle
 Morphing a polygon into a curve using `Transform`.
